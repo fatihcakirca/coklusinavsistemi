@@ -1,2 +1,2 @@
 # coklusinavsistemi
-6 farklı ders seçeneği olan sınav sistemi
+Bu uygulama, Flutter kullanılarak Türkçe, Matematik, Geometri, Fizik, Kimya ve Biyoloji olmak üzere altı dersten onar soruluk çoktan seçmeli türünde oluşturulmuş, her sorunun cevaplanması için 15 saniye süresi bulunan, doğru cevaplandığında 10 puan alındığı ve yanlış cevaplarda puan alınmayıp sınav sonu toplam puanı ve kullanılan süreyi hesaplamak için yazılmış bir mobil uygulamadır.
